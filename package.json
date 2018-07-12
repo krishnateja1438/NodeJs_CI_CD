@@ -1,0 +1,22 @@
+{
+	"name": "NodejsStarterApp",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"body-parser": "^1.15.2",
+		"cfenv": "1.0.x",
+		"cloudant": "^1.8.0",
+		"config.json": "0.0.4",
+		"express": "^4.14.0",
+		"grunt-war": "^0.5.1",
+		"npm-artifactory": "^0.6.4",
+		"path": "^0.12.7"
+	},
+	"repository": {},
+	"engines": {
+		"node": "4.x"
+	}
+}
