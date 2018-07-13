@@ -3,8 +3,8 @@ applications:
   memory: 256M
   instances: 1
   domain: eu-gb.mybluemix.net
-  name: bluenodemix12
-  host: bluenodemix12
+  name: bluenodemix-CICD
+  host: bluenodemix-CICD
   disk_quota: 1024M
   services:
   - Cloudant-y6
